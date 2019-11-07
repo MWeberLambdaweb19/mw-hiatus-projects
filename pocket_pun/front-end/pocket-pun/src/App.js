@@ -6,6 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <h1>This is the Pocket Punn App!</h1>
+        <p>This is a paragraph tag</p>
       </header>
     </div>
   );
