@@ -16,6 +16,7 @@ Practice bash scripts to teach myself bash!
 -File structure set up for front-end
 -Packages installed for front-end
 -Packages installed for back-end
-
-### Progress for day: Wednesday, November 5th, 2019
 -Added logs component to master README
+
+### Progress for day: Thursday, November 7th, 2019
+-No progress
