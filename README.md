@@ -18,5 +18,5 @@ Practice bash scripts to teach myself bash!
 -Packages installed for back-end
 -Added logs component to master README
 
-### Progress for day: Monday, November 11th, 2019
+### Progress for day: Tuesday, November 12th, 2019
 -No progress
