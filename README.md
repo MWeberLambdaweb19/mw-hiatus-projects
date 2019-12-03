@@ -1,6 +1,7 @@
 # mw-hiatus-projects
 These are projects built during my three week hiatus. 
 
+These projects are being put on indefinite hiatus - December 3rd, 2019
 
 ## Pocket Pun
 A Pun App for your phone! 
